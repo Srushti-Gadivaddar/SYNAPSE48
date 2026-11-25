@@ -20,3 +20,16 @@ own_dataset/
 
 # Generated results
 results/
+
+.env
+venv/
+__pycache__/
+
+
+.env
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+.ipynb_checkpoints/
