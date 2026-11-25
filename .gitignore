@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+dataset/
+own_dataset/
+*.zip
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Generated results
+results/
